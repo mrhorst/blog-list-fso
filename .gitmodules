@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/mrhorst/blog-list-fso-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/mrhorst/blog-list-fso-backend.git
